@@ -1,4 +1,5 @@
 class enemigo:
+    # Se define el valor de cada caracteristica que se realice:
     tipo_enemigo: str
     puntos_energia: int = 10
     ataque = 1
