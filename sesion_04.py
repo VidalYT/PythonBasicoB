@@ -1,9 +1,9 @@
 # Práctica 4 - Función Calculadora
 # ======================================================
 # Instrucciones Función Calculadora:
-
 # Cree un función en python llamada calculadora, la cual debe tomar los parámetros (num_1, num_2, operacion) y debe ser capaz de realizar toda la lógica de un calculadora simple como: sumar, restar, multiplicar y dividir.
 # Nota: Las entradas serán proporcionadas por el usuario.
+# ======================================================
 
 print("[ ============ Calculadora ============ ]")
 num_1 = float(input("Escriba el valor del primer número: "))
