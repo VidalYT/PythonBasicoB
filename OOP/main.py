@@ -29,6 +29,7 @@ def batalla(e1: enemigo, e2: enemigo):
     else:
         print(f"{e2.get_tipo_enemigo()} gano !!!!")
 
+# Se ejecuta el metodo llamado "batalla", donde llama a Zombie y Ogro.
 print(" ================ BATALLA ================ ")
 
 batalla(Zombie, Ogro)
